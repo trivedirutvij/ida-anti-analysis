@@ -1,3 +1,7 @@
+Anti-analysis detection:
+
+This tool detects popular anti-analysis tools, basically.
+
 File description:
 
 1. anti_analysis.py:
