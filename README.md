@@ -1,4 +1,4 @@
-Anti-analysis detection:
+# Anti-analysis detection:
 
 This tool detects popular anti-analysis tools, basically. This is an Interactive Disassembler-based tool and as such works only inside IDA.
 
